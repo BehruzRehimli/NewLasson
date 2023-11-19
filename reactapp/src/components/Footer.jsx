@@ -1,8 +1,12 @@
 import React from 'react'
+import NavBar from './Navbar/NavBar'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>Footer
+      <NavBar />
+    </div>
+    
   )
 }
 

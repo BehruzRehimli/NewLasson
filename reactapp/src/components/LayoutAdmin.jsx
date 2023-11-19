@@ -3,6 +3,7 @@ import HeaderAdmin from './HeaderAdmin'
 import { Outlet } from 'react-router-dom'
 
 const LayoutAdmin = () => {
+
   return (
     <div>
         <HeaderAdmin/>
